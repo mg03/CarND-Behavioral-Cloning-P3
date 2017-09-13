@@ -89,5 +89,5 @@ While training, I did see that I was getting low error on training and validatio
 
 8. The output video of sim in auto mode on Track One
 
-- [Drive Track One](https://youtu.be/R8C0DUNY4O8)
+- [Drive Track One](https://youtu.be/R8C0DUNY4O8). Recording was done on mac os using Quicktime recording software.
 
